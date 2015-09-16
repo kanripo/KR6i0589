@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:14.094105
+#+DATE: 2015-08-30 20:23:17.283065
 #+TITLE: 佛地經論
 #+PROPERTY: CBETA_ID T26n1530
 #+PROPERTY: ID KR6i0589
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1530
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0589_T_006-0316c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 《佛地經論》卷第六¶
+《佛地經論》卷第六¶
 ¶
 親光菩薩等造¶
 大唐三藏法師玄奘奉　詔譯¶
@@ -32,8 +31,7 @@
 變化身種種眾會威德熾盛雨正法雨。為令¶
 地前所化有情受用法樂。¶
 
-經曰。如世界中五趣可得。所謂地獄餓鬼傍¶
-生人趣天趣。如是如來觀察智上。無邊因果¶
+經曰。如世界中五趣可得。所謂地獄餓鬼傍生人趣天趣。如是如來觀察智上。無邊因果¶
 五趣差別具足顯現。¶
 
 論曰。此中顯示趣差別因相。如世界中隨有¶

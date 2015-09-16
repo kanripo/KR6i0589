@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:14.020494
+#+DATE: 2015-08-30 20:23:17.201538
 #+TITLE: 佛地經論
 #+PROPERTY: CBETA_ID T26n1530
 #+PROPERTY: ID KR6i0589
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1530
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0589_T_003-0301b> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《佛地經論》卷第三¶
+《佛地經論》卷第三¶
 ¶
-親光菩薩等造¶
+親光菩薩造等¶
 大唐三藏法師玄奘奉　詔譯¶
 
 經曰。爾時世尊告妙生菩薩。妙生當知。有五¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:13.997672
+#+DATE: 2015-08-30 20:23:17.175512
 #+TITLE: 佛地經論
 #+PROPERTY: CBETA_ID T26n1530
 #+PROPERTY: ID KR6i0589
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1530
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0589_T_002-0296a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《佛地經論》卷第二¶
+《佛地經論》卷第二¶
 ¶
 親光菩薩等造¶
 大唐三藏法師玄奘奉　詔譯¶
@@ -260,7 +259,7 @@
 聞。得小果已趣大菩提故名為大。或眾數¶
 多故名為大。如今大眾一切調順者。有義有¶
 學離見所斷一百一十二種分別麁重煩惱。¶
-不𢤱悷故猶如良馬名為調順。有義無學離¶
+不[怡-台+龍]悷故猶如良馬名為調順。有義無學離¶
 見修斷一百二十八種煩惱不剛強故。猶如¶
 真金名為調順。如實義者。皆是迴向菩提種¶
 性。一切堪能發趣大果。隨佛意轉如聰慧¶

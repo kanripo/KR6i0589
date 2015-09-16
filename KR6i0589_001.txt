@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:13.964285
+#+DATE: 2015-08-30 20:23:17.144644
 #+TITLE: 佛地經論
 #+PROPERTY: CBETA_ID T26n1530
 #+PROPERTY: ID KR6i0589
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1530
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0589_T_001-0291b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1530¶
-
- 《佛地經論》卷第一¶
+No. 1530¶
+《佛地經論》卷第一¶
 ¶
 親光菩薩等造¶
 大唐三藏法師玄奘奉　詔譯¶
@@ -144,8 +143,7 @@ No.1530¶
 所翼從。廣大法味喜樂所持。作諸眾生一切¶
 義利。滅諸煩惱災橫纏垢。遠離眾魔過諸莊¶
 嚴。如來莊嚴之所依處。大念慧行以為遊路。¶
-大止妙觀以為所乘。大空無相無願解脫為¶
-所入門。無量功德眾所莊嚴。大寶花王眾所¶
+大止妙觀以為所乘。大空無相無願解脫為所入門。無量功德眾所莊嚴。大寶花王眾所¶
 建立大宮殿中。¶
 
 論曰。此顯如來住處圓滿。謂佛淨土如是。淨¶
