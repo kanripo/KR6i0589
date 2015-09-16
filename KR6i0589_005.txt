@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:14.067989
+#+DATE: 2015-08-30 20:23:15.505061
 #+TITLE: 佛地經論
 #+PROPERTY: CBETA_ID T26n1530
 #+PROPERTY: ID KR6i0589
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1530
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6i0589_T_005-0312a> 
 #+PROPERTY: JUAN 5
 ¶
-
- 《佛地經論》卷第五¶
+《佛地經論》卷第五¶
 ¶
 親光菩薩等造¶
 大唐三藏法師玄奘奉　詔譯¶
@@ -240,7 +239,7 @@
 唯有一相。所謂非相。非相即是平等法性。¶
 達解如是遍計所執。一切法性畢竟永無平¶
 等法性故名證得。由此證得如前修習圓滿¶
-成故。平等性智圓滿成就。復有義者。遠離¶
+成故。平等性智圓滿成就。無有義者。遠離¶
 異相即無有相。遠離非相即無無相。無有無¶
 無名平等性。餘如前說。¶
 
@@ -351,7 +350,7 @@
 由此一味如前修習圓滿成故。平等性智圓¶
 滿成就。¶
 
-經曰。世間諸法苦樂一味。平等法性圓滿成¶
+經曰。世間諸法苦樂一味。平等性法圓滿成¶
 故。¶
 
 論曰。世間諸法略有八種。一利二衰。三毀四¶
